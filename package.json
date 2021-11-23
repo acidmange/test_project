@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/acidmange/test_project/issues"
   },
-  "homepage": "https://github.com/acidmange/test_project#readme"
+  "homepage": "https://github.com/acidmange/test_project#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
